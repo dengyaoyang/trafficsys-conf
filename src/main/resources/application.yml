@@ -6,8 +6,8 @@ spring:
       server:
         git:
           uri: https://github.com/dengyaoyang/conf-repo
-          username: 277153954@qq.com
-          password: 1987277Dyy
+          username: your-account
+          password: your-password
 eureka:
   instance:
     prefer-ip-address: true
